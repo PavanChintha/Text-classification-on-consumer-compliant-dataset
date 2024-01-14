@@ -33,10 +33,9 @@ The length of the text per complaint is variable, which is a common situation in
 > 1. Create a conventional machine learning model to complete the task. Since this is an introduction to NLP and we have chosen to work with truncated data, deep learning methods are not discussed.
 
 
-# If you are working on your local machine on a jupyter environment,
-# -    You will need to download the data - links shared above
-# -    Please create a virtual environment and make sure it is active.
-#      This is a standard 'best-practice'. Uncomment the next two lines to ensure the correct environment is activated.
-
-# import os
-# os.environ['CONDA_DEFAULT_ENV']
+If you are working on your local machine on a jupyter environment,
+ -    You will need to download the data - links shared above
+ -    Please create a virtual environment and make sure it is active.
+      This is a standard 'best-practice'. Run the next two lines to ensure the correct environment is activated.
+import os
+os.environ['CONDA_DEFAULT_ENV']
