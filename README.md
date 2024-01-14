@@ -37,5 +37,10 @@ If you are working on your local machine on a jupyter environment,
  -    You will need to download the data - links shared above
  -    Please create a virtual environment and make sure it is active.
       This is a standard 'best-practice'. Run the next two lines to ensure the correct environment is activated.
+
+
+      
 import os
+
+
 os.environ['CONDA_DEFAULT_ENV']
